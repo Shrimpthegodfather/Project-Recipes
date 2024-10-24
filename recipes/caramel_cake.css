@@ -1,0 +1,28 @@
+body {
+    background-color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    padding: 22px;
+}
+
+div {
+    font-size: 27px;
+    font-weight: 700;
+}
+
+.main {
+    text-align: center;
+    font-size: 32px;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+li {
+    padding: 15px;
+}
