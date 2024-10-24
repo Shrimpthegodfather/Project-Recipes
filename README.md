@@ -1,6 +1,7 @@
 # Project-Recipes
 This is an Odin Project 
 
-- In this project I would test my skills so far I have learned.
-- This project will be updated every every time when I know how to use javascript and css.
-- In the end my commit messages should be improved while adding css and javascript.
+- It contains various recipes that are common in my country.
+- It might not look pretty as I haven't mastered the use of css yet. 
+- It only have 3 recipes for now. I will add more in the future.
+- And thats about it.
