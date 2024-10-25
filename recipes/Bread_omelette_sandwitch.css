@@ -4,23 +4,29 @@ body {
 }
 
 img {
-    width: 900px;
+    width: 700px;
     height: auto;
-    text-align: center;
+    display: block;
+    margin: 0 auto;
+    padding: 15px;
+    
 }
 
 p, li {
     font-family: 'Courier New', Courier, monospace;
+    padding: 25px;
+    font-size: 20px;
 }
 
 .main-heading, div{
+    color: black;
     font-family: 'Times New Roman', Times, serif;
     font-size: 40px;
     font-weight: 800;
     text-align: center;
 }
 
-#class {
+div {
     text-align: left;
     color: rgb(87, 65, 63);
     font-size: 30px;

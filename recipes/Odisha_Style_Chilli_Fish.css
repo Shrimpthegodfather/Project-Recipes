@@ -15,3 +15,8 @@ img {
 h1 {
     text-align: center;
 }
+
+h2, li {
+    padding: 20px;
+    font-size: 25px;
+}
